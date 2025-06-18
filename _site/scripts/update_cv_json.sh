@@ -7,12 +7,12 @@
 BASE_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 
 # Define file paths
-CV_MARKDOWN="$BASE_DIR/_pages/cv.md"
-CV_JSON="$BASE_DIR/_data/cv.json"
+CV_MARKDOWN="$BASE_DIR/_pages/service.md"
+CV_JSON="$BASE_DIR/_data/service.json"
 CONFIG_FILE="$BASE_DIR/_config.yml"
 
 # Check if the Python script exists
-PYTHON_SCRIPT="$BASE_DIR/scripts/cv_markdown_to_json.py"
+PYTHON_SCRIPT="$BASE_DIR/scripts/service_markdown_to_json.py"
 if [ ! -f "$PYTHON_SCRIPT" ]; then
   echo "Error: Python script not found at $PYTHON_SCRIPT"
   exit 1

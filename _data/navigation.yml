@@ -18,13 +18,13 @@ main:
     url: /teaching/    
     
   - title: "AWARDS"
-    url: /portfolio/
+    url: /awards/
         
   - title: "TEACHING"
     url: /year-archive/
     
-  - title: "SERVICE "
-    url: /cv/
+  - title: "SERVICE"
+    url: /service/
     
  
     

@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Negin Forouzesh "
+title                    : "Negin Forouzesh"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -270,7 +270,7 @@ defaults:
   # _portfolio
   - scope:
       path: ""
-      type: portfolio
+      type: AWARDS
     values:
       layout: single
       author_profile: true
