@@ -9,19 +9,19 @@
 
 main:
   - title: "HOME"
-    url: /publications/
+    #url: /publications/
 
   - title: "RESEARCH"
     url: /talks/    
 
   - title: "COMBLAB"
-    url: /teaching/    
+    url: /lab/    
     
   - title: "AWARDS"
     url: /awards/
         
   - title: "TEACHING"
-    url: /year-archive/
+    url: /teaching/
     
   - title: "SERVICE"
     url: /service/
