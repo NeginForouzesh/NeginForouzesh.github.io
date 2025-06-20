@@ -19,22 +19,33 @@ author_profile: true
 
 
 
-<!-- Current Students Section -->
-<h2 style="margin-bottom: 10px;">Current Students</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 100px; justify-content: flex-start;">
 
-<div style="display: flex; flex-wrap: wrap; gap: 20px;">
-
-  <!-- Student Card Example 1 -->
-  <div style="width: 180px; text-align: center;">
-    <img src="/images/student1.jpg" alt="Student 1" style="width: 100%; border-radius: 10px;">
-    <p style="margin-top: 8px;">Student Name 1</p>
+  <!-- Student Card: Ali Risheh -->
+  <div style="width: 220px; text-align: center;">
+    <img src="/images/Ali.jpeg" alt="Ali Risheh" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin-top: 12px; font-weight: 600;">Ali Risheh</p>
+    <p style="margin: 0;">Graduate Research Assistant</p>
+    <p style="margin: 0;">Department of Computer Science</p>
+    <p style="margin: 0;">California State University, Los Angeles</p>
   </div>
 
-  <!-- Student Card Example 2 -->
-  <div style="width: 180px; text-align: center;">
-    <img src="/images/student2.jpg" alt="Student 2" style="width: 100%; border-radius: 10px;">
-    <p style="margin-top: 8px;">Student Name 2</p>
+  <!-- Student Card: Shivam Mishra -->
+  <div style="width: 220px; text-align: center;">
+    <img src="/images/Shivam_Mishra.jpeg" alt="Shivam Mishra" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin-top: 12px; font-weight: 600;">Shivam Mishra</p>
+    <p style="margin: 0;">Graduate Research Assistant</p>
+    <p style="margin: 0;">Department of Computer Science</p>
+    <p style="margin: 0;">California State University, Los Angeles</p>
   </div>
 
-  <!-- Add more student cards as needed -->
+  <!-- Student Card: Dikshant Sagar -->
+  <div style="width: 220px; text-align: center;">
+    <img src="/images/Dikshant_Sagar.jpeg" alt="Dikshant Sagar" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin-top: 12px; font-weight: 600;">Dikshant Sagar</p>
+    <p style="margin: 0;">Graduate Research Assistant</p>
+    <p style="margin: 0;">Department of Computer Science</p>
+    <p style="margin: 0;">California State University, Los Angeles</p>
+  </div>
 </div>
+
