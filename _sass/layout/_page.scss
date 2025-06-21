@@ -255,7 +255,9 @@
     }
   }
 }
-
+.page__content p {
+  text-align: justify;
+}
 .page__share-title {
   margin-bottom: 10px;
   font-size: $type-size-6;

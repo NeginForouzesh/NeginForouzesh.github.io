@@ -23,46 +23,46 @@ author_profile: true
 <div style="display: flex; flex-wrap: wrap; gap: 115px; justify-content: flex-start;">
 
   <!-- Student Card: Ali Risheh -->
-  <div style="width: 220px; text-align: center;">
+  <div style="width: 220px; text-align: left;">
     <img src="/images/Ali.jpeg" alt="Ali Risheh" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
     <p style="margin:0; font-weight: 600;">Ali Risheh</p>
-    <p style="margin: 0; text-align:center;white-space: nowrap;font-size: 14px;">Graduate Research Assistant</p>
-    <p style="margin: 0; text-align:center;white-space: nowrap;font-size: 14px;">Department of Computer Science</p>
-    <p style="margin: 0; text-align:center;white-space: nowrap;font-size: 14px;">California State University, Los Angeles</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 14px;">Graduate Research Assistant</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 14px;">Department of Computer Science</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 14px;">California State University, Los Angeles</p>
   </div>
 
   <!-- Student Card: Shivam Mishra -->
-  <div style="width: 220px; text-align: center;">
+  <div style="width: 220px; text-align: left;">
     <img src="/images/Shivam_Mishra.jpeg" alt="Shivam Mishra" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
     <p style="margin:0; font-weight: 600;">Shivam Mishra</p>
-    <p style="margin: 0; text-align:center;white-space: nowrap;font-size: 14px;">Graduate Research Assistant</p>
-    <p style="margin: 0; text-align:center;white-space: nowrap;font-size: 14px;">Department of Computer Science</p>
-    <p style="margin: 0; text-align:center;white-space: nowrap;font-size: 14px;">California State University, Los Angeles</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 14px;">Graduate Research Assistant</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 14px;">Department of Computer Science</p>
+    <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 14px;">California State University, Los Angeles</p>
   </div>
 
   <!-- Student Card: Dikshant Sagar -->
-  <div style="width: 220px; text-align: center;">
+  <div style="width: 220px; text-align: left;">
     <img src="/images/Dikshant_Sagar.jpeg" alt="Dikshant Sagar" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
     <p style="margin:0; font-weight: 600;">Dikshant Sagar</p>
-    <p style="margin: 0;text-align:center;white-space: nowrap;font-size: 14px;">Graduate Research Assistant</p>
-    <p style="margin: 0;text-align:center;white-space: nowrap;font-size: 14px;">Department of Computer Science</p>
-    <p style="margin: 0;text-align:center;white-space: nowrap;font-size: 14px;">California State University, Los Angeles</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 14px;">Graduate Research Assistant</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 14px;">Department of Computer Science</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 14px;">California State University, Los Angeles</p>
   </div>
 
-  <div style="width: 220px; text-align: center;">
+  <div style="width: 220px; text-align: left;">
     <img src="/images/Ari_Jasko.jpeg" alt="Ari Jasko" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
     <p style="margin:0; font-weight: 600;">Ari Jasko</p>
-    <p style="margin: 0;text-align:center;white-space: nowrap;font-size: 14px;">Undergraduate Research Assistant</p>
-    <p style="margin: 0;text-align:center;white-space: nowrap;font-size: 14px;">Department of Computer Science</p>
-    <p style="margin: 0;text-align:center;white-space: nowrap;font-size: 14px;">California State University, Los Angeles</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 14px;">Undergraduate Research Assistant</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 14px;">Department of Computer Science</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 14px;">California State University, Los Angeles</p>
   </div>
 
-  <div style="width: 220px; text-align: center;">
+  <div style="width: 220px; text-align: left;">
     <img src="/images/Fegul.jpeg" alt="Fergus Place" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
     <p style="margin:0; font-weight: 600;">Fergus Place</p>
-    <p style="margin: 0;text-align:center;white-space: nowrap;font-size: 14px;">Undergraduate Research Assistant</p>
-    <p style="margin: 0;text-align:center;white-space: nowrap;font-size: 14px;">Department of Computer Science</p>
-    <p style="margin: 0;text-align:center;white-space: nowrap;font-size: 14px;">California State University, Los Angeles</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 14px;">Undergraduate Research Assistant</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 14px;">Department of Computer Science</p>
+    <p style="margin: 0;text-align:leftr;white-space: nowrap;font-size: 14px;">California State University, Los Angeles</p>
   </div>
 </div>
 
