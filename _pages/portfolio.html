@@ -6,13 +6,91 @@ author_profile: true
 ---
 
 {% include base_path %}
+<style>
+  /* GRANTS & AWARDS (no background box) */
+  .grants-section {
+    padding: 20px;
+    line-height: 1.6;
+  }
+
+  .grants-section h1 {
+    margin-top: 30px;
+  }
+
+  .grants-section ul {
+    list-style-type: disc;
+    padding-left: 20px;
+  }
+
+  .grants-section li {
+    margin-bottom: 12px;
+  }
+
+  .grants-section a {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+
+  /* NEWS CARD SECTION */
+  .news-card {
+    display: flex;
+    gap: 20px;
+    background-color: #ffffff;
+    border: 1px solid #ddd;
+    padding: 20px;
+    border-radius: 12px;
+    margin-bottom: 30px;
+    align-items: center;
+    color: #000; /* Ensures dark-on-light text */
+  }
+
+  .news-card img {
+    width: 180px;
+    border-radius: 10px;
+  }
+
+  .news-card-content h3,
+  .news-card-content p {
+    margin: 0 0 10px;
+  }
+
+  .news-card-content a {
+    color: #0056b3;
+    text-decoration: underline;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    .grants-section {
+      color: #eaeaea;
+    }
+
+    .grants-section a {
+      color: #66bfff;
+    }
+
+    .news-card {
+      background-color: #1e1e1e;
+      border-color: #444;
+      color: #eaeaea;
+    }
+
+    .news-card-content {
+      color: #eaeaea;
+    }
+
+    .news-card-content a {
+      color: #66bfff;
+    }
+  }
+</style>
 
 
 {% for post in site.portfolio %}
   {% include archive-single.html %}
 {% endfor %}
 <!-- Grants & Awards List Section -->
-<div style="background-color: #fdfdfd; padding: 25px; border-radius: 12px;  margin-bottom: 30px;">
+<div class="grants-section">
+
   <h1 style="margin-top: 0;">GRANTS</h1>
   <ul style="line-height: 1.6;">
     <li><strong>(single PI): NIH SuRE FIRST R16</strong>, "Improving the Accuracy of Implicit Solvents with a Physics-Guided Neural Network", 2022–2026, Total: $730,000 (<a href="https://reporter.nih.gov/search/Xks4rsgnk0O4LPktwvu-NA/project-details/10496308" target="_blank">LINK</a>) Read more <a href="https://news.calstatela.edu/2023/02/10/cal-state-la-awarded-a-prestigious-national-institutes-of-health-research-grant/">here</a>.</li>
@@ -37,9 +115,11 @@ author_profile: true
 <!-- Grants & Awards Section -->
 
 <!-- NIH Grant -->
-<div style="display: flex; gap: 20px; background: #ffffff; border: 1px solid #ddd; padding: 20px; border-radius: 12px; margin-bottom: 30px; align-items: center;">
+<div class="news-card">
+
+
   <img src="/images/imgpro.jpeg" alt="NIH Grant" style="width: 180px; border-radius: 10px;" />
-  <div>
+  <div class="news-card-content">
     <h3 style="margin: 0 0 10px;">Cal State LA awarded a prestigious National Institutes of Health research grant</h3>
     <p style="margin: 0 0 6px;"><strong>Date:</strong> Feb 10, 2023</p>
     <p style="margin: 0 0 10px;">Faculty Distinction, University News</p>
@@ -48,9 +128,10 @@ author_profile: true
 </div>
 
 <!-- NSF Grant -->
-<div style="display: flex; gap: 20px; background: #ffffff; border: 1px solid #ddd; padding: 20px; border-radius: 12px; margin-bottom: 30px; align-items: center;">
+<div class="news-card">
+
   <img src="/images/negin-group.jpg" alt="NSF Grant" style="width: 180px; border-radius: 10px;" />
-  <div>
+  <div class="news-card-content">
     <h3 style="margin: 0 0 10px;">Cal State LA receives National Science Foundation grant to create a pathway to diversity program</h3>
     <p style="margin: 0 0 6px;"><strong>Date:</strong> Dec 2, 2022</p>
     <p style="margin: 0 0 10px;">Faculty Distinction, University News</p>
