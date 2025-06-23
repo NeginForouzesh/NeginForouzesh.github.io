@@ -61,6 +61,9 @@
   font-family: $global-font-family;
   font-size: $type-size-7;
 }
+.page__footer {
+  display: none !important;
+}
 
 .page__footer-follow {
   ul {
