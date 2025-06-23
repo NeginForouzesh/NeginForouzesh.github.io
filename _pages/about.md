@@ -8,9 +8,23 @@ redirect_from:
 ---
 
 
-I am a tenure-track assistant professor in [Computer Science at California State University, Los Angeles,](https://www.calstatela.edu/) interested in teaching and research in computational sciences with applications in drug discovery. I develop machine learning, scalable optimization algorithms, and high performance computing to understand the structure and function of biomolecular systems. 
- 
-I was a biomedical research intern at [Stanford Center for Genomics and Personalized Medicine (SCGPM)](https://med.stanford.edu/scgpm.html) in the summer of 2018 and a graduate research assistant at [Virginia Tech Advanced Research Computing (ARC)](https://arc.vt.edu/) in 2018-2019. Currently, I am a faculty member of the [Biomedical Engineering (BME) Minor Program](https://www.calstatela.edu/ecst/biomedical-engineering) at Cal State LA, a co-director of the [NSF PREC program at](https://www.calstatela.edu/centers/prec) Cal State LA, and an official developer of [AMBER,](https://ambermd.org/) an open-source software package for molecular dynamics simulation.
+<p>
+    I am a tenure-track assistant professor in 
+    <a href="https://www.calstatela.edu/" target="_blank">Computer Science at California State University, Los Angeles</a>, 
+    interested in teaching and research in computational sciences with applications in drug discovery. 
+    I develop machine learning, scalable optimization algorithms, and high performance computing to 
+    understand the structure and function of biomolecular systems.
+    I was a biomedical research intern at 
+    <a href="https://med.stanford.edu/scgpm.html" target="_blank">Stanford Center for Genomics and Personalized Medicine (SCGPM)</a> 
+    in the summer of 2018 and a graduate research assistant at 
+    <a href="https://arc.vt.edu/" target="_blank">Virginia Tech Advanced Research Computing (ARC)</a> in 2018–2019. 
+    Currently, I am a faculty member of the 
+    <a href="https://www.calstatela.edu/ecst/biomedical-engineering" target="_blank">Biomedical Engineering (BME) Minor Program</a> 
+    at Cal State LA, a co-director of the 
+    <a href="https://www.calstatela.edu/centers/prec" target="_blank">NSF PREC program</a> at Cal State LA, 
+    and an official developer of 
+    <a href="https://ambermd.org/" target="_blank">AMBER</a>, an open-source software package for molecular dynamics simulation.
+  </p>
 
 <div class="circle-row">
   <div class="circle red">
