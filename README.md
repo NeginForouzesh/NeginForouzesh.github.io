@@ -54,6 +54,8 @@ comb-lab-website/
 
 ## 🚀 Getting Started 
 
+##TODO Need to update this
+
 To preview the site locally:
 ```bash
 git clone https://github.com/COMB-Lab/comb-lab.github.io.git
