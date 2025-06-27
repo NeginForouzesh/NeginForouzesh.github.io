@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "neginim.jpeg"
-  name             : "Assistant Professor"
-  pronouns         : "she/her"  
+  name             : "Negin Forouzesh"
+  pronouns         : "Assistant Professor"  
   bio              : " "
-  location         : "LA"
-  employer         : "CSU-Los Angeles"
+  location         : #
+  employer         : "California State University LA"
   uri              : "https://www.calstatela.edu/faculty/negin-forouzesh"
   email            : "nforouz2@calstatela.edu" 
 
