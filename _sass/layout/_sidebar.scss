@@ -28,7 +28,7 @@
   }
 
   @include breakpoint($large) {
-    @include span(2 of 12);
+    @include span(2.5 of 12);
     opacity: 1;
     -webkit-transition: opacity 0.2s ease-in-out;
             transition: opacity 0.2s ease-in-out;
@@ -70,7 +70,7 @@
     position: relative;
     float: right;
     width: $right-sidebar-width-narrow;
-    margin-left: span(0.5 of 12);
+    margin-left: span( 1 of 12);
     z-index: 10;
   }
 
@@ -85,6 +85,7 @@
 
 .author__avatar {
   display: table-cell;
+  //margin: 0 auto;
   vertical-align: top;
   width: 200px;
   // set width only, for non-square avatars
@@ -98,7 +99,7 @@
 
   img {
     width: 200px !important;
-    height: 200px !important;
+    height: 190px !important;
     object-fit: cover !important;
     border-radius: 50% !important; // ← makes it square
     padding: 0 !important;
@@ -128,6 +129,7 @@
 
 .author__name {
   margin: 0;
+  //text-align: center;  
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -141,6 +143,11 @@
 
 .sidebar .author__desktop {
   display: none;
+  white-space: nowrap;
+  overflow: visible;
+  text-overflow: unset;
+  
+  
   @media screen and (min-width: 1024px) {
     display: block;
   }
@@ -148,6 +155,7 @@
 
 .author__pronouns {
   margin: 0;
+ // text-align: center;  
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -190,6 +198,9 @@
       display: none;
     }
   }
+}
+.sidebar .social-icons i {
+  color: inherit !important;      // keeps default brand color (e.g., blue for LinkedIn)
 }
 
 .author__urls {

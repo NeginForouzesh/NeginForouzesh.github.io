@@ -28,7 +28,7 @@ redirect_from:
 
 <div class="circle-row">
   <div class="circle red">
-  <a href="https://77e5c9bd-5215-42ad-a959-885c4bf6876c.filesusr.com/ugd/893721_a5544c7befa446978dc632c122f5c78c.pdf" target="_blank" class="circle red">CV</a>
+  <a href="/files/respro.pdf" target="_blank" class="circle red">CV</a>
   </div>
   <div class="circle blue"><a href="/research" class="circle blue">RESEARCH</a></div>
   <div class="circle yellow"><a href="/teaching" class="circle yellow">TEACHING</a></div>
