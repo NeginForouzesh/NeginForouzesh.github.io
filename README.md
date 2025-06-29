@@ -52,23 +52,23 @@ comb-lab-website/
 
 ---
 
-# 🚀 Getting Started
+## 🚀 Getting Started
 
 ##TODO Need to update this
 
 To preview the site locally:
 
 ```bash
-# 1. Clone the repository
+ 1. Clone the repository
 git clone https://github.com/COMB-Lab/comb-lab.github.io.git
 cd comb-lab.github.io
 
-# 2. Install dependencies
+ 2. Install dependencies
 bundle install
 
-# 3. Serve the Jekyll site
+ 3. Serve the Jekyll site
 bundle exec jekyll serve
 
-# 4. Open in browser
-# Visit http://localhost:4000
+ 4. Open in browser
+Visit http://localhost:4000
 
