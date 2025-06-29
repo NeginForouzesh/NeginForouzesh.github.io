@@ -60,15 +60,15 @@ To preview the site locally:
 
 ```bash
  1. Clone the repository
-git clone https://github.com/COMB-Lab/comb-lab.github.io.git
-cd comb-lab.github.io
+    git clone https://github.com/COMB-Lab/comb-lab.github.io.git
+    cd comb-lab.github.io
 
  2. Install dependencies
-bundle install
+    bundle install
 
  3. Serve the Jekyll site
-bundle exec jekyll serve
+    bundle exec jekyll serve
 
  4. Open in browser
-Visit http://localhost:4000
+    Visit http://localhost:4000
 
