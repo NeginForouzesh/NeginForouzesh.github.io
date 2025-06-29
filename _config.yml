@@ -28,8 +28,8 @@ author:
   bio              : " "
   location         : #
   employer         : "California State University LA"
-  uri              : "https://www.calstatela.edu/faculty/negin-forouzesh"
-  email            : "nforouz2@calstatela.edu" 
+  uri              : #
+  email            : "neginf@calstatela.edu" 
 
   # Academic websites
   academia         : # URL

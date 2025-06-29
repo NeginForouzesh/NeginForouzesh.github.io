@@ -85,7 +85,7 @@
 
 .author__avatar {
   display: table-cell;
-  //margin: 0 auto;
+  margin: 0 auto;
   vertical-align: top;
   width: 200px;
   // set width only, for non-square avatars
@@ -129,7 +129,7 @@
 
 .author__name {
   margin: 0;
-  //text-align: center;  
+  text-align: center;  
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -155,7 +155,7 @@
 
 .author__pronouns {
   margin: 0;
- // text-align: center;  
+ text-align: center;  
 
   @include breakpoint($large) {
     margin-top: 10px;
