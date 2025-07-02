@@ -1,7 +1,9 @@
 /* ==========================================================================
    SINGLE PAGE/POST
    ========================================================================== */
-
+header {
+    margin-top: 35px;
+}
 #main {
   @include container;
   @include clearfix;
@@ -443,3 +445,21 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/* Force page content to extend full height, and remove bottom spacing */
+
+
+/* Remove last content block margin */
+.page__content > *:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* Footer should stick to bottom, but not float */
+.page__footer {
+  flex-shrink: 0;
+  margin-top: 0 !important;
+  padding-top: 0.5em;
+}
+
+
+

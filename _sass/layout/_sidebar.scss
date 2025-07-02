@@ -5,7 +5,7 @@
 /*
    Default
    ========================================================================== */
-
+body{padding:1px!important;}
 .sidebar {
   height: 100vh;
   overflow-y: auto;
@@ -13,7 +13,7 @@
   transform: translate3d(0, 0 , 0);
 
   @include clearfix();
-  margin-bottom: 1em;
+  margin-bottom: 0.5em;
 
   @media (orientation: portrait) {
     margin-top: 1em;
@@ -124,8 +124,9 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
   }
+  margin-bottom: 6px;
 }
 
 .sidebar .author__name {
@@ -134,19 +135,30 @@
 }
 
 .sidebar .author__desktop {
-  display: none;
-  white-space: nowrap;
-  overflow: visible;
-  text-overflow: unset;
+  white-space: normal;
+  word-break: break-word;
 
   @media screen and (min-width: 1024px) {
     display: block;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    
+  }
+  @media screen and (max-width: 1023px) {
+    display: block;
+    white-space: normal;
+    overflow: visible;
+    text-overflow: unset;
+    padding-bottom:0px!important;
+   
   }
 }
 
 .author__pronouns {
   margin: 0;
   text-align: center;
+  margin-top: 4px;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -159,16 +171,19 @@
 
   @include breakpoint($large) {
     margin-top: 10px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
   }
 }
 
 .author__urls-wrapper {
+  padding-top: 10px;
   position: relative;
   display: block;
   text-align: center;
   font-family: $sans-serif;
   z-index: 10;
+  margin-bottom: 0 !important;
+  padding-bottom: 0 !important;
   cursor: pointer;
 
   li:last-child {
@@ -220,4 +235,13 @@
       text-decoration: underline;
     }
   }
+}
+
+@media screen and (max-width: 768px) {
+.sidebar{height:auto;padding-top: 35px !important;}
+body{margin-bottom:5px!important;padding-bottom:0px!important;}
+header {
+    margin-top: 0px;
+}
+
 }
