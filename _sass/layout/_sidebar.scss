@@ -239,9 +239,10 @@ body{padding:1px!important;}
 
 @media screen and (max-width: 768px) {
 .sidebar{height:auto;padding-top: 35px !important;}
-body{margin-bottom:5px!important;padding-bottom:0px!important;}
+body{margin-bottom:5px!important;padding-bottom:0px!important;
+}
 header {
-    margin-top: 0px;
+    margin-top: 5px;
 }
 
 }

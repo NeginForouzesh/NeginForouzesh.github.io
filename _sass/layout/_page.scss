@@ -2,7 +2,7 @@
    SINGLE PAGE/POST
    ========================================================================== */
 header {
-    margin-top: 35px;
+    margin-top: 45px;
 }
 #main {
   @include container;
@@ -37,11 +37,11 @@ header {
 }
 
 .page__title {
-  margin-top: 0;
+  margin-top: 45px;
   line-height: 1;
 
   & + .page__meta {
-    margin-top: -0.5em;
+    //margin-top: -0.5em;
   }
 }
 
@@ -52,6 +52,7 @@ header {
 
 .page__content {
 
+  
   h2 {
     padding-bottom: 0.5em;
     border-bottom: 1px solid var(--global-border-color);
