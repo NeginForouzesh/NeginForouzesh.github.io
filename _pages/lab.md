@@ -154,6 +154,8 @@ author_profile: true
   <li><a href="https://users.math.msu.edu/users/weig/" target="_blank">Dr. Guowei Wei</a>, Department of Mathematics, Michigan State University</li>
 </ul>
 
+<!-- TEST -->
+
 <h2 style="margin-top: 50px;">Sponsors</h2>
 
 <div style="display: flex; flex-wrap: wrap; gap: 40px; justify-content: left; align-items: left; margin-top: 20px;">
