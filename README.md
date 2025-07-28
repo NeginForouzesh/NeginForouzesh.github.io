@@ -32,19 +32,24 @@ Visit the live lab website here:
 
 ```bash
 comb-lab-website/
-├── images/                     # All media: images, icons, figures
-├── _pages/
-       └──  ├── about.md                    # Home Page
-            ├── research.html               # Research projects
-            ├── lab.md                      # Team members (COMB-LAB)
-            ├── awards.html                 # Grants and awards data
-            ├── teachingg.html              # Teaching data
-            ├── service.md                  # Service and outreach data
+├── images/                         # All media: images, icons, figures
+│   └── logo.png                    # (Example image)
+│
+├── _pages/                         # All major site pages
+│   ├── about.md                    # Home / About the lab
+│   ├── research.html               # Research projects
+│   ├── lab.md                      # Team members (COMB-LAB)
+│   ├── awards.html                 # Grants and awards data
+│   ├── teachingg.html              # Teaching data 
+│   ├── service.md                  # Service and outreach data
+│
 ├── _sass/
 │   └── layout/
-│       └── _page.scss          # Custom SCSS layout overrides
-├── _config.yml                 # Jekyll/GitHub Pages configuration
-└── README.md                   # Project documentation
+│       └── _page.scss              # Custom SCSS for layout overrides
+│
+├── _config.yml                     # Jekyll configuration for GitHub Pages
+├── README.md                       # Project documentation
+
 
 
 
