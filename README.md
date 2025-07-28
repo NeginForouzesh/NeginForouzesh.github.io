@@ -37,7 +37,7 @@ comb-lab-website/
 ├── research.html               # Research projects
 ├── lab.md                      # Team members (COMB-LAB)
 ├── awards.html                 # Grants and awards data
-├── teachingg.html               # Teaching data
+├── teachingg.html              # Teaching data
 ├── service.md                  # Service and outreach data
 ├── _sass/
 │   └── layout/
