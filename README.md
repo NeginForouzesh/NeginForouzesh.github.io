@@ -32,15 +32,21 @@ Visit the live lab website here:
 
 ```bash
 comb-lab-website/
-├── assets/              # Media, icons, figures
-├── index.html           # Main homepage
-├── about.html           # About the lab
-├── research.html        # Research projects
-├── team.html            # Team members
-├── contact.html         # Contact information
-├── styles.css           # Custom styles
-├── scripts.js           # Optional scripts
-└── README.md            # Project documentation
+├── images/                     # All media: images, icons, figures                  
+├── about.md                    # Home Page 
+├── research.html               # Research projects
+├── lab.md                      # Team members (COMB-LAB)
+├── awards.html                 # Grants and awards data
+├── teachingg.html               # Teaching data
+├── service.md                  # Service and outreach data
+├── _sass/
+│   └── layout/
+│       └── _page.scss          # Custom SCSS layout overrides
+├── _config.yml                 # Jekyll/GitHub Pages configuration
+└── README.md                   # Project documentation
+
+
+
 ```
 
 ## 🛠️ Technologies Used
