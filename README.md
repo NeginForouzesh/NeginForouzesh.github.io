@@ -47,7 +47,7 @@ comb-lab-website/
 │   └── layout/
 │       └── _page.scss              # Custom SCSS for layout overrides
 │
-├── _config.yml                     # Jekyll configuration for GitHub Pages
+├── _config.yml                     # Siderbar Data
 ├── README.md                       # Project documentation
 
 
