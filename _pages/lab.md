@@ -59,6 +59,22 @@ author_profile: true
   </div>
 
   <div style="width: 220px; text-align: left;">
+    <img src="/images/Fegul.jpeg" alt="" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <p style="margin:0; font-weight: 600;">Akash Saraf</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Graduate Research Assistant</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>
+    <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
+  </div>
+
+</div>
+
+<h2 style="text-align: left; margin-bottom: 30px;">Alumni</h2>
+
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 115px; justify-content: flex-start;">
+
+<div style="width: 220px; text-align: left;">
     <img src="/images/izzy.jpeg" alt="" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
     <p style="margin:0; font-weight: 600;">Humayra Rashid</p>
     <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Undergraduate Research Assistant</p>
@@ -73,14 +89,6 @@ author_profile: true
     <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>
     <p style="margin: 0;text-align:left;white-space: nowrap;font-size: 16px;">California State University, Los Angeles</p>
   </div>
-
-</div>
-
-<h2 style="text-align: left; margin-bottom: 30px;">Alumni</h2>
-
-
-
-<div style="display: flex; flex-wrap: wrap; gap: 115px; justify-content: flex-start;">
 
 <div style="width: 220px; text-align: left;">
     <img src="/images/Libina_photo.jpeg" alt="" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
