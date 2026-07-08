@@ -33,7 +33,7 @@ author_profile: true
 
   
   <div style="width: 220px; text-align: left;">
-    <img src="/images/izzy.jpeg" alt="" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <img src="/images/LVM-headshot.jpg" alt="" style="width: 200px; height: 260px; object-fit: cover; border-radius: 4px; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
     <p style="margin:0; font-weight: 600;">Lizbeth Vargas-Martinez</p>
     <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">Graduate Research Assistant</p>
     <p style="margin: 0; text-align:left;white-space: nowrap;font-size: 16px;">Department of Computer Science</p>

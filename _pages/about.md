@@ -26,7 +26,7 @@ redirect_from:
 
 <div class="circle-row">
   <div class="circle red">
-  <a href="/files/respro.pdf" target="_blank" class="circle red">CV</a>
+  <a href="/files/Forouzesh_CV_S26.pdf" target="_blank" class="circle red">CV</a>
   </div>
   <div class="circle blue"><a href="/research" class="circle blue">RESEARCH</a></div>
   <div class="circle yellow"><a href="/teaching" class="circle yellow">TEACHING</a></div>
